@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/09/09 09:10:40.000.446,=C:\Users\dev03.VIPSISTEMAS\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2021/09/09 09:10:42.000.683,=C:\Users\dev03.VIPSISTEMAS\Documents\Embarcadero\Studio\Projects\ServerConst1.pas</Transaction>
+    <Transaction>2021/09/09 09:10:42.000.870,=C:\Users\dev03.VIPSISTEMAS\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2021/09/09 09:11:41.000.767,C:\Users\dev03.VIPSISTEMAS\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas=C:\Users\dev03.VIPSISTEMAS\Desktop\server\servidor\Methods_servidor.pas</Transaction>
+    <Transaction>2021/09/09 09:11:41.000.767,C:\Users\dev03.VIPSISTEMAS\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.dfm=C:\Users\dev03.VIPSISTEMAS\Desktop\server\servidor\Methods_servidor.dfm</Transaction>
+    <Transaction>2021/09/09 09:11:53.000.045,C:\Users\dev03.VIPSISTEMAS\Documents\Embarcadero\Studio\Projects\ServerConst1.pas=C:\Users\dev03.VIPSISTEMAS\Desktop\server\servidor\Const_servidor.pas</Transaction>
+    <Transaction>2021/09/09 09:12:13.000.018,C:\Users\dev03.VIPSISTEMAS\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas=C:\Users\dev03.VIPSISTEMAS\Desktop\server\servidor\Container_servidor.pas</Transaction>
+    <Transaction>2021/09/09 09:12:13.000.018,C:\Users\dev03.VIPSISTEMAS\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.dfm=C:\Users\dev03.VIPSISTEMAS\Desktop\server\servidor\Container_servidor.dfm</Transaction>
+    <Transaction>2021/09/09 09:12:19.000.709,C:\Users\dev03.VIPSISTEMAS\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\dev03.VIPSISTEMAS\Desktop\server\servidor\Servidor.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

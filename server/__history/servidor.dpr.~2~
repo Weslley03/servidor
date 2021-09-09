@@ -1,0 +1,16 @@
+program servidor;
+
+uses
+  Vcl.Forms,
+  ServerConst1 in 'ServerConst1.pas',
+  ServerContainerUnit1 in 'ServerContainerUnit1.pas' {ServerContainer1: TDataModule},
+  ServerMethodsUnit1 in 'ServerMethodsUnit1.pas' {ServerMethods1: TDataModule},
+  WebModuleUnit1 in 'WebModuleUnit1.pas' {WebModule1: TWebModule};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.Run;
+end.
